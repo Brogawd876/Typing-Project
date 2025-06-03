@@ -1,0 +1,17 @@
+{
+  "name": "typing-project",
+  "version": "1.0.0",
+  "description": "This project is a simple typing test built with **HTML**, **CSS** and **JavaScript**. It displays a short phrase for you to type and measures your typing speed in words per minute (WPM).",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"No test specified\"",
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
